@@ -3,7 +3,7 @@ npm i
 
 # Usage
 - Find some filehosting server (you can use Google dorking, for example search this: intitle: "index of /")
-- Obtain URL to the server and run the scraper using "node scrape.js &gt;url&lt;
+- Obtain URL to the server and run the scraper using "node scrape.js &lt;url&gt;"
 - Fucking destroy backend hell yeah
 
 # Config
